@@ -2,101 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee5a31d9-8291-419d-b781-850b61ffb271" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Coroutines/SimpleOne.kt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Basics/ControlFlowKt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Basics/TypesKt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/A.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/A1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/B$DefaultImpls.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/B.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/Base.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/BaseImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/C.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/ClassesKt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/Classes_GenericsKt$printAllValues$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/Classes_GenericsKt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/Classes_ObjectsKt$foo$adHoc$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/Classes_ObjectsKt$main$ab$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/Classes_ObjectsKt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/Classes_PropertiesAndFieldsKt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/Const.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/Derived.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/Expr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/Foo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/MapUser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/MyClass$Companion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/MyClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/NotAnumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/PrivateSetter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/Product.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/ProtocolState$TALKING.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/ProtocolState$WAITING.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/ProtocolState.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/Source.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/Sum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/User$$special$$inlined$observable$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/User$$special$$inlined$vetoable$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Classes/User.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Functions/Functions_1Kt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Functions/Functions_2Kt$main$$inlined$sortBy$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Functions/Functions_2Kt$main$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Functions/Functions_2Kt$main$less$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Functions/Functions_2Kt$main$represents$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Functions/Functions_2Kt$main$sumFun$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Functions/Functions_2Kt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Functions/Functions_CoroutinesKt$fibonacciSequence$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Functions/Functions_CoroutinesKt$lazySeq$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Functions/Functions_CoroutinesKt$lazySeq1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Functions/Functions_CoroutinesKt$lazySequence$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Functions/Functions_CoroutinesKt$yieldIfOdd$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Functions/Functions_CoroutinesKt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/GettingStarted/Customer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/GettingStarted/GettingStartedKt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/GettingStarted/IdiomsKt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/META-INF/KotlinPractice.kotlin_module" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/A.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/AnnotationsKt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/CollectionsKt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/Counter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/Fancy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/Foo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/Foo1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/FunctionCompositionKt$compose$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/FunctionCompositionKt$main$oddLength$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/FunctionCompositionKt$main$oddLength$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/FunctionCompositionKt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/MiscKt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/ReflectionKt$main$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/ReflectionKt$main$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/ReflectionKt$main$isNumber$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/ReflectionKt$main$prop$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/ReflectionKt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/TypeSafeBuilder/A.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/TypeSafeBuilder/B.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/TypeSafeBuilder/Body.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/TypeSafeBuilder/BodyTag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/TypeSafeBuilder/Element.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/TypeSafeBuilder/H1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/TypeSafeBuilder/HTML.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/TypeSafeBuilder/Head.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/TypeSafeBuilder/LI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/TypeSafeBuilder/P.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/TypeSafeBuilder/Tag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/TypeSafeBuilder/TagWithText.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/TypeSafeBuilder/TextElement.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/TypeSafeBuilder/Title.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/TypeSafeBuilder/TypeSafeBuildersKt$main$result$1$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/TypeSafeBuilder/TypeSafeBuildersKt$main$result$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/TypeSafeBuilder/TypeSafeBuildersKt$main$result$1$2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/TypeSafeBuilder/TypeSafeBuildersKt$main$result$1$2$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/TypeSafeBuilder/TypeSafeBuildersKt$main$result$1$2$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/TypeSafeBuilder/TypeSafeBuildersKt$main$result$1$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/TypeSafeBuilder/TypeSafeBuildersKt$main$result$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/TypeSafeBuilder/TypeSafeBuildersKt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Other/TypeSafeBuilder/UL.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Coroutines/example2.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Coroutines/example3.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Coroutines/example_cancel_1.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Coroutines/example_cancel_2.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Coroutines/example_cancel_3.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Coroutines/example_cancel_4.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Coroutines/example_compose_1.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Coroutines/timeout.kt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Coroutines/SimpleOneKt$main$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/Coroutines/SimpleOneKt.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Coroutines/SimpleOne.kt" afterPath="$PROJECT_DIR$/src/Coroutines/example1.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/KotlinPractice/META-INF/KotlinPractice.kotlin_module" afterPath="$PROJECT_DIR$/out/production/KotlinPractice/META-INF/KotlinPractice.kotlin_module" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/KotlinPractice.iml" afterPath="$PROJECT_DIR$/KotlinPractice.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -108,63 +26,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="TypeSafeBuilders.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Other/TypeSafeBuilders.kt">
+      <file leaf-file-name="timeout.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Coroutines/timeout.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1404">
-              <caret line="91" column="24" lean-forward="false" selection-start-line="91" selection-start-column="24" selection-end-line="91" selection-end-column="24" />
+            <state relative-caret-position="405">
+              <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding>
-                <element signature="n#!!block;n#main#0" expanded="false" />
-                <element signature="n#!!block;n#html#0" expanded="false" />
-                <element signature="n#!!block;n#Element#0" expanded="false" />
-                <element signature="n#!!block;n#TagWithText#0" expanded="false" />
-                <element signature="n#!!block;n#BodyTag#0" expanded="false" />
-                <element signature="n#!!block;n#A#0" expanded="false" />
-                <element signature="n#!!block;n#UL#0" expanded="false" />
-                <element signature="n#!!block;n#Head#0" expanded="false" />
-                <element signature="n#!!block;n#Body#0" expanded="false" />
-                <element signature="n#!!block;n#HTML#0" expanded="false" />
+                <element signature="e#20#223#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KotlinPractice.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KotlinPractice.iml">
+      <file leaf-file-name="example_compose_1.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Coroutines/example_compose_1.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SimpleOne.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Coroutines/SimpleOne.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LICENSE" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LICENSE">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ControlFlow.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Basics/ControlFlow.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-              <folding />
+            <state relative-caret-position="594">
+              <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+              <folding>
+                <element signature="e#20#154#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -216,10 +97,18 @@
         <option value="$PROJECT_DIR$/src/Other/TypeSafeBuilders.kt" />
         <option value="$PROJECT_DIR$/KotlinPractice.iml" />
         <option value="$PROJECT_DIR$/src/Coroutines/SimpleOne.kt" />
+        <option value="$PROJECT_DIR$/src/Coroutines/example2.kt" />
+        <option value="$PROJECT_DIR$/src/Coroutines/example3.kt" />
+        <option value="$PROJECT_DIR$/src/Coroutines/example_cancel_1.kt" />
+        <option value="$PROJECT_DIR$/src/Coroutines/example_cancel_2.kt" />
+        <option value="$PROJECT_DIR$/src/Coroutines/example_cancel_3.kt" />
+        <option value="$PROJECT_DIR$/src/Coroutines/example_cancel_4.kt" />
+        <option value="$PROJECT_DIR$/src/Coroutines/timeout.kt" />
+        <option value="$PROJECT_DIR$/src/Coroutines/example_compose_1.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="455" />
     <option name="y" value="493" />
     <option name="width" value="1400" />
@@ -297,7 +186,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Functions" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -326,10 +215,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Coroutines.SimpleOneKt">
-    <configuration name="Coroutines.SimpleOneKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.Coroutines.Example_compose_1Kt">
+    <configuration name="Coroutines.Example_cancel_2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Coroutines.SimpleOneKt" />
+      <option name="MAIN_CLASS_NAME" value="Coroutines.Example_cancel_2Kt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -339,9 +228,9 @@
       <module name="KotlinPractice" />
       <envs />
     </configuration>
-    <configuration name="Other.FunctionCompositionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Coroutines.Example_cancel_3Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Other.FunctionCompositionKt" />
+      <option name="MAIN_CLASS_NAME" value="Coroutines.Example_cancel_3Kt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -351,9 +240,9 @@
       <module name="KotlinPractice" />
       <envs />
     </configuration>
-    <configuration name="Other.MiscKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Coroutines.Example_cancel_4Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Other.MiscKt" />
+      <option name="MAIN_CLASS_NAME" value="Coroutines.Example_cancel_4Kt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -363,9 +252,9 @@
       <module name="KotlinPractice" />
       <envs />
     </configuration>
-    <configuration name="Other.ReflectionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Coroutines.Example_compose_1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Other.ReflectionKt" />
+      <option name="MAIN_CLASS_NAME" value="Coroutines.Example_compose_1Kt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -375,9 +264,9 @@
       <module name="KotlinPractice" />
       <envs />
     </configuration>
-    <configuration name="Other.TypeSafeBuilder.TypeSafeBuildersKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Coroutines.TimeoutKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Other.TypeSafeBuilder.TypeSafeBuildersKt" />
+      <option name="MAIN_CLASS_NAME" value="Coroutines.TimeoutKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -469,19 +358,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.Other.MiscKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.Other.FunctionCompositionKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.Other.ReflectionKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.Other.TypeSafeBuilder.TypeSafeBuildersKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.Coroutines.SimpleOneKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.Coroutines.Example_cancel_2Kt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.Coroutines.Example_cancel_3Kt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.Coroutines.Example_cancel_4Kt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.Coroutines.TimeoutKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.Coroutines.Example_compose_1Kt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.Coroutines.SimpleOneKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.Other.TypeSafeBuilder.TypeSafeBuildersKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.Other.ReflectionKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.Other.FunctionCompositionKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.Other.MiscKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.Coroutines.Example_compose_1Kt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.Coroutines.TimeoutKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.Coroutines.Example_cancel_4Kt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.Coroutines.Example_cancel_3Kt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.Coroutines.Example_cancel_2Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -507,8 +396,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
-    <editor active="true" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -518,7 +406,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30733946" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30733946" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -576,7 +464,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Coroutines/SimpleOne.kt">
+    <entry file="file://$PROJECT_DIR$/src/Coroutines/example1.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
@@ -595,6 +483,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#19#124#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -609,6 +500,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="783">
           <caret line="29" column="67" lean-forward="false" selection-start-line="29" selection-start-column="67" selection-end-line="29" selection-end-column="67" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -637,6 +529,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="22" column="30" lean-forward="false" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -644,6 +537,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -651,6 +545,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#spaceToCamelCase#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -672,6 +569,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="783">
           <caret line="29" column="67" lean-forward="false" selection-start-line="29" selection-start-column="67" selection-end-line="29" selection-end-column="67" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -701,6 +599,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
           <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+          <folding>
+            <element signature="e#19#124#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -715,6 +616,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-10">
           <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -736,6 +638,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-10">
           <caret line="13" column="40" lean-forward="false" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -789,11 +692,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Coroutines/SimpleOne.kt">
+    <entry file="file://$PROJECT_DIR$/src/Coroutines/example1.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Coroutines/example2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Coroutines/example3.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Coroutines/example_cancel_1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Coroutines/example_cancel_2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Coroutines/example_cancel_3.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding>
+            <element signature="e#20#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Coroutines/example_cancel_4.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/kotlinx-coroutines-core/0.19.3/kotlinx-coroutines-core-0.19.3.jar!/kotlinx/coroutines/experimental/BuildersKt.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Coroutines/timeout.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="e#20#223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Coroutines/example_compose_1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+          <folding>
+            <element signature="e#20#154#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
